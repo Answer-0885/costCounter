@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/costCounter/static/css/main.71f20eee.css",
+    "main.js": "/costCounter/static/js/main.1405b3d9.js",
+    "index.html": "/costCounter/index.html",
+    "main.71f20eee.css.map": "/costCounter/static/css/main.71f20eee.css.map",
+    "main.1405b3d9.js.map": "/costCounter/static/js/main.1405b3d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f20eee.css",
+    "static/js/main.1405b3d9.js"
+  ]
+}
